@@ -27,14 +27,12 @@ h1{
     background-color: aqua;
     border-radius: 10px;
     margin: 5px;
-    width: 50px;
     padding: 10px;
 }
 #menu>ul>li>ul>li {
     background-color:#0000ff;
     border-radius: 5px;
     margin: 5px;
-    width: 40px;
     padding: 10px;
     color: #ccffff;
 }
