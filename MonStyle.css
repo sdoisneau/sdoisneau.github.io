@@ -34,8 +34,8 @@ h1{
 #menu>ul>li>ul>li {
     background-color:#0000ff;
     border-radius: 5px;
-    margin: 75px;
-    width:200px;
+    margin: 5px;
+    width:80px;
     padding: 10px;
     color: #ccffff;
 }
