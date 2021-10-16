@@ -26,16 +26,16 @@ h1{
 #menu>ul>li {
     background-color: aqua;
     border-radius: 10px;
-    width:70px;
+    width:75px;
     margin: 5px;
     padding: 10px;
+    height:50px;
 }
 #menu>ul>li>ul>li {
     background-color:#0000ff;
     border-radius: 5px;
-    margin: 5px;
-    font-size:25px;
-    width:60px;
+    margin: 75px;
+    width:200px;
     padding: 10px;
     color: #ccffff;
 }
@@ -46,3 +46,4 @@ h1{
     border:1px black solid;
     text-align:left;
     width:100px
+}
