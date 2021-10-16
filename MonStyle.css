@@ -49,8 +49,10 @@ h1{
 }
 h4 {
     position: fixed;
+    padding: 20px;
     right:10px;
     color: magenta;
     background-color: lightblue;
-    border:5px pink solid;
+    border:5px solid coral;
+    top:10px;
 }    
