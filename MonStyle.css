@@ -56,3 +56,8 @@ h4 {
     border:5px solid coral;
     top:5px;
 }    
+img {
+    position:relative;
+    left:auto;
+    rght:auto;
+}
