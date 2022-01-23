@@ -10,7 +10,7 @@ and open the template in the editor.
 
 body {
     background-color: #FFD700;
-    margin: 25px solid #000000;;
+    border: 25px black solid;
 }
 h1{
     color: #000000;
@@ -18,42 +18,12 @@ h1{
     font-size: 50px;
     text-align:center; 
 }
-#menu{
-    position: absolute;
-    top: 30px;
-    left: 5px;
-    width: auto;
-}
-#menu>ul>li {
-    background-color: aqua;
-    border-radius: 10px;
-    width:auto;
-    margin: 5px;
-    padding: 10px;
-}
-#menu>ul>li>ul>li {
-    background-color:#0000ff;
-    border-radius: 5px;
-    margin: 5px;
-    margin-right:10px;
-    width:auto;
-    padding: 10px;
-    color: #ccffff;
-}
 .important{
-    margin:10px;
-    padding:5px;
-    background-color:lightsteelblue;
+    position: relative;
+    left:30px;
+    padding:10px;
+    background-color:azure;
     border:1px black solid;
-    text-align:left;
-    width:100px
-}
-h4 {
-    position: fixed;
-    padding: 20px;
-    right:10px;
-    color: magenta;
-    background-color: lightblue;
-    border:5px solid coral;
-    top:5px;
-}    
+    text-align:center;
+    width:200px
+
