@@ -39,5 +39,11 @@ img {
     display: block;
     margin: 0px auto;
 } 
+#fin {
+    display: block;
+    margin: 0px auto;
+    border: 5px solid black;
+    border-radius: 5px
+}
     
     
