@@ -9,10 +9,12 @@ and open the template in the editor.
 */
 
 body {
-    background-color: #009999;
+    background-color: #FFD700;
+    margin: 25px;
+    margin-color: #000000;
 }
 h1{
-    color: #ff0099;
+    color: #000000;
     font-family: cursive;
     font-size: 35px;
     margin-left: 500px; 
