@@ -46,5 +46,10 @@ img {
     border-radius: 10px;
     background-color: #8B0000;     
 }
+.paragraphe {
+    display: block;
+    margin: 0px auto;
+    font-family: monospace;
+} 
     
     
