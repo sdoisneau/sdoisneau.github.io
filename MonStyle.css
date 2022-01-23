@@ -35,6 +35,9 @@ h4{
 .liste>li{
     style="list-style-type: circle"
 }
-    
+img {
+    display: block;
+    margin: 0px auto;
+} 
     
     
