@@ -41,9 +41,10 @@ img {
 } 
 #fin {
     display: block;
-    margin: 0px auto;
+    margin: 50px auto;
     border: 5px solid black;
-    border-radius: 5px
+    border-radius: 10px;
+    background-color: #8B0000;     
 }
     
     
