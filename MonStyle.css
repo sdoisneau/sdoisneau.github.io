@@ -34,9 +34,9 @@ h4{
     position: fixed;
     border: 2px solid #000000;
     background-color: #F0F8FF;
-    bottom: 30px;
-    right: 30px;
-    width:60px;
+    top: 10px;
+    left: 30px;
+    width:70px;
 }
 .paragraph{
     position: relative;
