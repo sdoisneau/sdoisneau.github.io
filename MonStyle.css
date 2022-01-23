@@ -21,15 +21,6 @@ h1{
     font-size: 50px;
     text-align:center; 
 }
-.intro{
-    position: absolute;
-    left:30px;
-    rignt:30px;
-    padding:10px;
-    background-color:azure;
-    border:1px black solid;
-    text-align:center;
-}
 h4{
     position: fixed;
     border: 2px solid #000000;
