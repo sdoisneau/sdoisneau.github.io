@@ -24,18 +24,19 @@ h1{
 .intro{
     position: relative;
     left:30px;
-    right:auto;
+    width:100px;
     padding:10px;
     background-color:azure;
     border:1px black solid;
     text-align:center;
 }
 h4{
-    position: -webkit-sticky;
+    position: sticky;
     border: 2px solid #000000;
     background-color: #F0F8FF;
     bottom: 30px;
     right: 30px;
+    width:60px;
 }
 .paragraph{
     position: relative;
