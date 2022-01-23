@@ -10,7 +10,7 @@ and open the template in the editor.
 
 body {
     background-color: #FFD700;
-    border: 25px black solid;
+    border: 25px solid #000000;
 }
 h1{
     color: #000000;
@@ -20,10 +20,11 @@ h1{
 }
 .important{
     position: relative;
-    left:30px;
+    left:auto;
+    right:auto;
     padding:10px;
     background-color:azure;
     border:1px black solid;
     text-align:center;
-    width:200px
+    width:300px
 
