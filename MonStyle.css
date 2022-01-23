@@ -29,12 +29,6 @@ h4{
     right: 30px;
     width:100px;
 }
-.liste{
-    style="list-style-type: square"
-}
-.liste>li{
-    style="list-style-type: circle"
-}
 img {
     display: block;
     margin: 0px auto;
